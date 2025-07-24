@@ -64,7 +64,7 @@ export default defineUserConfig({
           {
             text: "课内",
             prefix: "curricular/",
-            children: ["majors", "exam", "gpa", "transfer_major"],
+            children: ["course-selecting", "lessons", "exam", "gpa", "special_classes", "transfer_major"],
           },
           {
             text: "课外",
