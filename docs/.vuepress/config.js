@@ -126,7 +126,7 @@ export default defineUserConfig({
     ],
 
     contributors: true,
-    repo: "Kozmosa/survive-in-scut",
+    repo: "HiUniya/SYSU-SCST-Application/",
     editLink: true,
     docsDir: "docs",
     search: true,
