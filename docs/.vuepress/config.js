@@ -26,6 +26,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "中山大学网络空间安全学院手册",
   description: "共建共享，薪火相传",
+  base: "/SYSU-SCST-Application/",
 
   theme: defaultTheme({
     navbar: [
