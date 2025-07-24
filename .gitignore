@@ -6,9 +6,3 @@
 .vuepress/dist
 # node_modules 目录
 node_modules
-# npm 包锁文件
-package-lock.json
-# Yarn 包锁文件
-yarn.lock
-# pnpm 包锁文件
-pnpm-lock.yaml
